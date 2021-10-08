@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SellApp", "SellApp\SellApp.csproj", "{718F460D-C9A7-4C7A-9C4A-20D8E08EEBC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SellApp.Example", "SellApp.Example\SellApp.Example.csproj", "{7FB0B765-7D64-4CCE-9972-4C5E712C2418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{718F460D-C9A7-4C7A-9C4A-20D8E08EEBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718F460D-C9A7-4C7A-9C4A-20D8E08EEBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718F460D-C9A7-4C7A-9C4A-20D8E08EEBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718F460D-C9A7-4C7A-9C4A-20D8E08EEBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB0B765-7D64-4CCE-9972-4C5E712C2418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB0B765-7D64-4CCE-9972-4C5E712C2418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB0B765-7D64-4CCE-9972-4C5E712C2418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB0B765-7D64-4CCE-9972-4C5E712C2418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CCF60E5-E2B1-454E-B807-59BF8621EED1}
+	EndGlobalSection
+EndGlobal
